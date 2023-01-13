@@ -16,7 +16,7 @@ easy-shopping
    <br>
    <h3> Modelo da responsividade </h3>
    
-   <img src=" "
+   <img src="https://github.com/gustavicen/Easy-shopping/blob/master/assets/Projeto%20responsividade%20Imagem%20celular.png?raw=true"/>
   
   
   
