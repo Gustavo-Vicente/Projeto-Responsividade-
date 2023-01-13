@@ -14,7 +14,7 @@ easy-shopping
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
    <br>
    <br>
-   <h3> Modelo da responsividade </h3>
+   <h3> Modelo da responsividade: </h3>
    
    <img src="https://github.com/gustavicen/Easy-shopping/blob/master/assets/Projeto%20responsividade%20Imagem%20celular.png?raw=true"/>
   
